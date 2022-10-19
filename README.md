@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owezalty
-- 👀 I’m interested in testing web applications
-- 🌱 I’m currently learning Collections
+- 👀 I’m interested in testing software applications
+- 🌱 Every day is a learning day.
 - 💞️ I’m looking to collaborating in Java projects
 - 📫 How to reach me => You can reach me via LinkedIn: linkedin.com/in/ovezmurat-altiyev-471915231 or gmail: mrt291949@gmail.com
 
