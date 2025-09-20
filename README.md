@@ -9,7 +9,7 @@ In 2021, I learnt Core Java, Lambda expressions, and JDBC. From 2022 to now, I h
 - ⚽ Outside the world of tech, too, I love playing football too much and hiking as well. 
 📖📚 I love reading books on personal development. My favourite one is The Monk Who Sold His Ferrari by Robin Sharma. That is pretty much about me, I guess. 
 - 💞️ I’m looking forward to collaborating on Java projects. 
-- 📫 How to reach me => You can reach me via LinkedIn: linkedin.com/in/ovezmurat-altiyev-471915231 or gmail: mrt291949@gmail.com
+- 📫 How to reach me => You can reach me via LinkedIn: linkedin.com/in/qamurat or gmail: mrt291949@gmail.com
 
 <!---
 owezalty/owezalty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
