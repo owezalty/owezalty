@@ -15,7 +15,3 @@ In 2021, I learnt Core Java, Lambda expressions and JDBC. In 2022 till now, I le
 owezalty/owezalty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-## Snake eating my contribution graph
-![snake gif](https://github.com/owezalty/owezalty/blob/output/github-contribution-grid-snake.gif)
